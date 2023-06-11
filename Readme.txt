@@ -18,3 +18,4 @@ git config --global user.email " Ваш майл "
 git config --global user.name " Ваше имя "
 
 GOTOVO
+Ы
